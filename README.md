@@ -27,6 +27,6 @@ Una prueba de funcionamiento del mismo se puede visualizar en el siguiente GIF:
 
 Muchas gracias.
 
-|Nombres|Apellidos|Email|
-|---|---|---|
-|Simón Elías|Jalil Cruz|simonjalilcruz@gmail.com|
+| Nombres  | Apellidos |          Email          |
+
+| Ezequiel | Reymundo  | ezequielrey2020@gmail.com
